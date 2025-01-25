@@ -1,3 +1,4 @@
+add_subdirectory("caesar-app-mt")
 add_subdirectory("caesar-app")
 add_subdirectory("echo")
 add_subdirectory("real-array-op")
